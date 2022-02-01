@@ -15,6 +15,7 @@ caso queira utilizar uma imagem própria fazer o upload para o ECR e substituir 
 ```
 Criar uma nova stack no cloud formation, escolhendo a opção 'Template is ready' e na área 'Specify template' selecione 'Upload a template file', escolha o arquivo my-template.yml
 ```
+![Screenshot](cf-example-stack.png)
 
 ## Teste
 ```
